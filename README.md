@@ -16,7 +16,7 @@ Details
 
 ### 1. Dynamic Programming (DP)
 
-* There are two version DP: state value based and action value based
+* There are two versions of DP: state value based and action value based
 * Policy evaluation, policy improvent
 * Policy iteration
 * Value iteration
@@ -34,7 +34,7 @@ Details
 Visualization Examples
 -----
 
-### Value Functions (State value $V(s)$, Action value $Q(s,a)$)
+### Value Functions (State value $V(s)$, Action value $Q(s,a)$ )
 <p align="left">
     <img src="./results/state_value.png" width="300" height="300">
     <img src="./results/action_value.png" width="300" height="300">
